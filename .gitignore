@@ -39,5 +39,4 @@ terraform.rc
 #Ignore .DS_Store
 .DS_Store
 
-infra/**terraform**
-infra/.terraform.lock.hcl
+/gcp/infra/.terraform.lock.hcl
