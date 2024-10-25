@@ -40,3 +40,6 @@ terraform.rc
 .DS_Store
 
 /gcp/infra/.terraform.lock.hcl
+*.terraform*
+
+*.idea*
